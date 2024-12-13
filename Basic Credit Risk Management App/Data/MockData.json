@@ -1,0 +1,272 @@
+[
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+        "Name": "John Doe",
+        "PaymentHistory": 85,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 5,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0852",
+        "Name": "Jane Smith",
+        "PaymentHistory": 90,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 7,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0853",
+        "Name": "Alice Johnson",
+        "PaymentHistory": 75,
+        "CreditUtilization": 50,
+        "AgeOfCreditHistory": 3,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0854",
+        "Name": "Bob Brown",
+        "PaymentHistory": 60,
+        "CreditUtilization": 70,
+        "AgeOfCreditHistory": 10,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0855",
+        "Name": "Charlie Davis",
+        "PaymentHistory": 95,
+        "CreditUtilization": 10,
+        "AgeOfCreditHistory": 8,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0856",
+        "Name": "Diana Evans",
+        "PaymentHistory": 50,
+        "CreditUtilization": 40,
+        "AgeOfCreditHistory": 6,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0857",
+        "Name": "Eve Foster",
+        "PaymentHistory": 80,
+        "CreditUtilization": 60,
+        "AgeOfCreditHistory": 4,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0858",
+        "Name": "Frank Green",
+        "PaymentHistory": 70,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 9,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0859",
+        "Name": "Grace Harris",
+        "PaymentHistory": 65,
+        "CreditUtilization": 50,
+        "AgeOfCreditHistory": 2,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0860",
+        "Name": "Henry Jackson",
+        "PaymentHistory": 55,
+        "CreditUtilization": 80,
+        "AgeOfCreditHistory": 1,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0861",
+        "Name": "Ivy King",
+        "PaymentHistory": 85,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 11,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0862",
+        "Name": "Jack Lee",
+        "PaymentHistory": 90,
+        "CreditUtilization": 10,
+        "AgeOfCreditHistory": 12,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0863",
+        "Name": "Karen Miller",
+        "PaymentHistory": 75,
+        "CreditUtilization": 40,
+        "AgeOfCreditHistory": 3,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0864",
+        "Name": "Leo Nelson",
+        "PaymentHistory": 60,
+        "CreditUtilization": 70,
+        "AgeOfCreditHistory": 5,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0865",
+        "Name": "Mia Owens",
+        "PaymentHistory": 95,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 7,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0866",
+        "Name": "Nina Parker",
+        "PaymentHistory": 50,
+        "CreditUtilization": 60,
+        "AgeOfCreditHistory": 4,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0867",
+        "Name": "Oscar Quinn",
+        "PaymentHistory": 80,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 6,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0868",
+        "Name": "Paul Roberts",
+        "PaymentHistory": 70,
+        "CreditUtilization": 50,
+        "AgeOfCreditHistory": 8,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0869",
+        "Name": "Quinn Scott",
+        "PaymentHistory": 65,
+        "CreditUtilization": 40,
+        "AgeOfCreditHistory": 9,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0870",
+        "Name": "Rachel Taylor",
+        "PaymentHistory": 55,
+        "CreditUtilization": 70,
+        "AgeOfCreditHistory": 10,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0871",
+        "Name": "Sam Underwood",
+        "PaymentHistory": 85,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 11,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0872",
+        "Name": "Tina Vance",
+        "PaymentHistory": 90,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 12,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0873",
+        "Name": "Uma White",
+        "PaymentHistory": 75,
+        "CreditUtilization": 50,
+        "AgeOfCreditHistory": 3,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0874",
+        "Name": "Victor Xander",
+        "PaymentHistory": 60,
+        "CreditUtilization": 70,
+        "AgeOfCreditHistory": 5,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0875",
+        "Name": "Wendy Young",
+        "PaymentHistory": 95,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 7,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0876",
+        "Name": "Xander Zane",
+        "PaymentHistory": 50,
+        "CreditUtilization": 60,
+        "AgeOfCreditHistory": 4,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0877",
+        "Name": "Yara Adams",
+        "PaymentHistory": 80,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 6,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0878",
+        "Name": "Zane Baker",
+        "PaymentHistory": 70,
+        "CreditUtilization": 50,
+        "AgeOfCreditHistory": 8,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0879",
+        "Name": "Amy Carter",
+        "PaymentHistory": 65,
+        "CreditUtilization": 40,
+        "AgeOfCreditHistory": 9,
+        "CreditScore": 0,
+        "RiskStatus": null
+    },
+    {
+        "CustomerId": "d290f1ee-6c54-4b01-90e6-d701748f0880",
+        "Name": "Brian Davis",
+        "PaymentHistory": 55,
+        "CreditUtilization": 70,
+        "AgeOfCreditHistory": 10,
+        "CreditScore": 0,
+        "RiskStatus": null
+    }
+]
